@@ -1,4 +1,4 @@
-# Machine Learning Course (Physics of Data - Unipd)
+# Machine Learning (Physics of Data - Unipd)
 This is my repository of the Machine Learning course, and contains the assignments given by the professor and other personal works. 
 
 ## Folders
